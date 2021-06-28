@@ -1,0 +1,15 @@
+{
+  "name": "@theme-ui/preset-system",
+  "version": "0.9.1",
+  "main": "dist/theme-ui-preset-system.cjs.js",
+  "module": "dist/theme-ui-preset-system.esm.js",
+  "types": "dist/theme-ui-preset-system.cjs.d.ts",
+  "source": "src/index.ts",
+  "author": "Brent Jackson",
+  "license": "MIT",
+  "scripts": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "f64df9e132f13777a4734c7c7175ec609cf562c9"
+}
